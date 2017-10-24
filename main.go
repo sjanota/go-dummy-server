@@ -13,5 +13,5 @@ func main() {
 }
 
 func Message() string {
-  return "pong"
+  return "a pong"
 }
